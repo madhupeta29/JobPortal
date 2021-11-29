@@ -1,0 +1,74 @@
+[
+    {
+        "header": "Employeer",
+        "id": 1,
+        "hasChildren":  true,
+        "routing": "",
+        "children": [
+            {
+                "header": "Login",
+                "id": 2,
+                "hasChildren": false,
+                "routing": ""
+            },
+            {
+                "header": "Register",
+                "id": 3,
+                "hasChildren": false,
+                "routing": ""
+            }
+        ]
+    },
+
+    {
+        "header": "Employee",
+        "id": 4,
+        "hasChildren": true,
+        "routing": "",
+        "children": [
+            {
+                "header": "login",
+                "id": 5,
+                "hasChildren": false,
+                "routing": ""            }
+        ]
+    },
+    {
+        "header": "About",
+        "id": 6,
+        "hasChildren": true,
+        "routing": "",
+        "children":[ {
+            "header": "About sub Menu1",
+            "id": 6,
+            "hasChildren": true,
+            "routing": ""
+        },
+        {
+            "header": "Abooyt nbew",
+            "id": 6,
+            "hasChildren": true,
+            "routing": ""
+        },
+        {
+            "header": "About sub Menu3",
+            "id": 6,
+            "hasChildren": true,
+            "routing": ""
+        },
+        {
+            "header": "About sub Menu4",
+            "id": 6,
+            "hasChildren": true,
+            "routing": ""
+        }
+    ]
+    },
+
+    {
+        "header": "Contact",
+        "id": 5,
+        "hasChildren": false
+    }
+    
+]
